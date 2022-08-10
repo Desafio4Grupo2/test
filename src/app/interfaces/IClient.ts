@@ -29,6 +29,6 @@ export interface IClientResponse {
   complement: string;
   neighborhood: string;
   _id: Types.ObjectId;
-  __v?: number
+  __v?: number;
 }
   
