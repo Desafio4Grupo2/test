@@ -10,6 +10,10 @@ class UserController {
       return res.status(500).json({ error });
     }
   }
+
+  async read(req, res){
+    
+  }
 }
 
 export default new UserController();
