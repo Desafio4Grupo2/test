@@ -16,7 +16,7 @@ class UserController {
   }
 
   async update(req, res){
-    
+    console.log('teste teste')
   }
 }
 
